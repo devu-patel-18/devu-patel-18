@@ -2,7 +2,7 @@
 - 👀 I’m very interested in coding and creatives uses of coding.
 - 🌱 I’m currently learning Javascript,Html,Css.
 - 💞️ I’m looking to collaborate on creatives ideas using Java,c,Javascript,Html,Css.
-- 📫 my G-mail ID is dev.seductive@gmail.com
+- 📫 my G-mail ID is devpatel184419@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: There is nothing interesting until you make one.
 
